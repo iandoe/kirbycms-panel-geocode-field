@@ -90,6 +90,8 @@ $geo_arr = array(
 	2 => 'lng'
 );
 
+*/
+
 ?>
 
 <div>Location:  <?php echo $geo_arr[0] ?> </div>
