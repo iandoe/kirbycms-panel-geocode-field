@@ -8,7 +8,7 @@ KirbyCMS Panel field for geocoding user input and storing it in a simple way.
 This uses :
 
 - Google  [Maps API v3](https://developers.google.com/maps/documentation/javascript/geocoding)
-- @brianreavis [Selectize.js jQuery plugin](brianreavis.github.io/selectize.js/)
+- @brianreavis [Selectize.js jQuery plugin](http://brianreavis.github.io/selectize.js/)
 - [Pin Icons](http://dribbble.com/shots/928458-80-Shades-of-White-Icons?list=users&offset=26) by [Victor Erixon](http://dribbble.com/victorerixon)
 
 It requires you to :
